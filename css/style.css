@@ -2,6 +2,7 @@
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
 @import "./utilidades/formulario.css";
+@import "./utilidades/animacao.css";
 
 @import "./Global/header.css";
 @import "./Global/footer.css";
